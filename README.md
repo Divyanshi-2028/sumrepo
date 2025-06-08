@@ -1,4 +1,4 @@
 # sumrepo
-author - divyanshi chauhan 
+author - divyanshi chauhan (college student)
 <br>
 i am a college student
